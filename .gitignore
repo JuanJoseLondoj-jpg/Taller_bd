@@ -1,0 +1,26 @@
+# Entorno virtual
+.venv/
+venv/
+env/
+
+# Variables de entorno reales (NO subir)
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Distribución / empaquetado
+dist/
+build/
+*.egg-info/
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
