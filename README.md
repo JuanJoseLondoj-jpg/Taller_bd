@@ -35,8 +35,8 @@ Automatiza la creación y poblado de una tabla MySQL con 100.000 registros usand
 ### 1. Clona el repositorio
 
 ```bash
-git clone https://github.com/tu_usuario/tu_repositorio.git
-cd tu_repositorio
+git clone https://github.com/JuanJoseLondoj-jpg/Taller_bd.git
+cd Taller_bd
 ```
 
 ### 2. Crea y activa el entorno virtual
