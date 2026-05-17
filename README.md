@@ -1,6 +1,6 @@
 # Taller U3 — Automatización de BD con Python, Faker y Git
 
-Proyecto desarrollado para la materia **Bases de Datos para Ciencia de Datos** (UdeA).  
+Proyecto desarrollado para la materia **Bases de Datos** (UdeA).  
 Automatiza la creación y poblado de una tabla MySQL con 100.000 registros usando Python, SQLAlchemy y Faker.
 
 ---
