@@ -62,7 +62,7 @@ pip install -r requirements.txt
 Copia el archivo de ejemplo y completa con tus datos reales:
 
 ```bash
-cp .env.example .env
+copy .env.example .env
 ```
 
 Edita el archivo `.env`:
